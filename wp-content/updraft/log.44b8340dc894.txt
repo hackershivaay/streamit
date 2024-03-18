@@ -1,0 +1,250 @@
+0000.001 (0) Opened log file at time: Sun, 03 Mar 2024 05:02:10 +0000 on http://localhost/streamit
+0000.006 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.1 WP: 6.4.3 PHP: 8.2.12 (apache2handler, Windows NT KAPIL 10.0 build 22631 (Windows 11) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 44M | 46M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+0000.010 (0) Free space on disk containing Updraft's temporary directory: 95979 MB
+0000.017 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.025 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.034 (0) Set semaphore last lock (fd) time to 2024-03-03 05:02:10
+0000.037 (0) Semaphore lock (fd) complete
+0000.049 (0) Backup run: resumption=0, nonce=44b8340dc894, file_nonce=44b8340dc894 begun at=1709442130 (0s ago), job type=backup
+0000.054 (0) Scheduling a resumption (1) after 300 seconds (1709442430) in case this run gets aborted
+0000.077 (0) Checking if we have a zip executable available
+0000.083 (0) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0000.086 (0) Creation of backups of directories: beginning
+0000.098 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.341 (0) Total entities for the zip file: 529 directories, 2880 files (0 skipped as non-modified), 34 MB
+0002.348 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 34778.3 KB, split: 409600 KB)
+0002.400 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.440 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.482 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.530 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0002.575 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0002.615 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0002.659 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0002.700 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0002.739 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0002.781 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0002.825 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0002.867 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0002.910 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 1300 files added (on-disk size: 0 KB)
+0002.955 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 1400 files added (on-disk size: 0 KB)
+0002.996 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 1500 files added (on-disk size: 0 KB)
+0003.042 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 1600 files added (on-disk size: 0 KB)
+0003.086 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 1700 files added (on-disk size: 0 KB)
+0003.130 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 1800 files added (on-disk size: 0 KB)
+0003.171 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 1900 files added (on-disk size: 0 KB)
+0003.216 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 2000 files added (on-disk size: 0 KB)
+0003.256 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 2100 files added (on-disk size: 0 KB)
+0003.298 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 2200 files added (on-disk size: 0 KB)
+0003.340 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 2300 files added (on-disk size: 0 KB)
+0003.384 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 2400 files added (on-disk size: 0 KB)
+0003.429 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 2500 files added (on-disk size: 0 KB)
+0003.480 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 2600 files added (on-disk size: 0 KB)
+0003.525 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 2700 files added (on-disk size: 0 KB)
+0003.569 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.tmp: 2800 files added (on-disk size: 0 KB)
+0033.183 (0) Creating zip file manifest (backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.list-temp.tmp)
+0033.208 (0) Successfully created zip file manifest (size: 242268)
+0033.383 (0) Created plugins zip (0) - 10370.6 KB in 33.3 s (311.7 KB/s) (sha1: 8159e095f0b4795cae5711d8eb09efc6a58402d3, sha256: c67b115e672ba16dfa1b4752b899b539410e426a8ea820c7d0919ba3c8114699)
+0033.398 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0033.400 (0) No remote despatch: user chose no remote backup service
+0033.402 (0) Recording as successfully uploaded: backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip
+0033.407 (0) Deleting zip manifest (backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip.list.tmp)
+0033.414 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0033.416 (0) Number of backup sets in history: 0; groups (db): 1
+0033.419 (0) Number of backup sets in history: 0; groups (files): 1
+0033.421 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0033.434 (0) Beginning creation of dump of themes (split every: 400 MB)
+0033.801 (0) Total entities for the zip file: 94 directories, 530 files (0 skipped as non-modified), 20.4 MB
+0033.809 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 20879.2 KB, split: 409600 KB)
+0033.857 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0033.899 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0033.943 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0033.984 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0034.026 (0) Zip: backup_2024-03-03-0502_Streamit_44b8340dc894-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0042.002 (0) Creating zip file manifest (backup_2024-03-03-0502_Streamit_44b8340dc894-themes.zip.list-temp.tmp)
+0042.017 (0) Successfully created zip file manifest (size: 32450)
+0042.206 (0) Created themes zip (0) - 8452 KB in 8.8 s (964.5 KB/s) (sha1: 2f19386018d1ef41a1b534ab22532adc5292d3cd, sha256: 530f6403ec3680b5eb94fba9a6ce0c0b7136ae84eaaebe758dd05a0215f1732d)
+0042.222 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0042.226 (0) No remote despatch: user chose no remote backup service
+0042.230 (0) Recording as successfully uploaded: backup_2024-03-03-0502_Streamit_44b8340dc894-themes.zip
+0042.238 (0) Deleting zip manifest (backup_2024-03-03-0502_Streamit_44b8340dc894-themes.zip.list.tmp)
+0042.248 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0042.252 (0) Number of backup sets in history: 0; groups (db): 1
+0042.256 (0) Number of backup sets in history: 0; groups (files): 1
+0042.260 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0042.280 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0042.284 (0) Looking for candidates to backup in: D:\xampp\localhost\streamit/wp-content/uploads
+0042.288 (0) finding files: 2024: adding to list (1)
+0042.290 (0) finding files: presto-player-private: adding to list (2)
+0042.293 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0042.314 (0) Total entities for the zip file: 3 directories, 5 files (0 skipped as non-modified), 13.5 MB
+0042.316 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 13818 KB, split: 409600 KB)
+0043.269 (0) Creating zip file manifest (backup_2024-03-03-0502_Streamit_44b8340dc894-uploads.zip.list-temp.tmp)
+0043.272 (0) Successfully created zip file manifest (size: 249)
+0043.513 (0) Created uploads zip (0) - 13104.5 KB in 1.2 s (10855.6 KB/s) (sha1: 2983cc4595cbb611e7a91fd82ea5e2b7f722c93c, sha256: b37a491cc49445766a8515e9e7eb824a48eff2211bafe7ebec0152a953765108)
+0043.525 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0043.528 (0) No remote despatch: user chose no remote backup service
+0043.531 (0) Recording as successfully uploaded: backup_2024-03-03-0502_Streamit_44b8340dc894-uploads.zip
+0043.538 (0) Deleting zip manifest (backup_2024-03-03-0502_Streamit_44b8340dc894-uploads.zip.list.tmp)
+0043.545 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0043.548 (0) Number of backup sets in history: 0; groups (db): 1
+0043.551 (0) Number of backup sets in history: 0; groups (files): 1
+0043.554 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0043.565 (0) No backup of mu-plugins: excluded by user's options
+0043.569 (0) Beginning backup of other directories found in the content directory (index: 0)
+0043.571 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0043.574 (0) Looking for candidates to backup in: D:\xampp\localhost\streamit/wp-content
+0043.585 (0) finding files: cache: skipping: excluded by options
+0043.590 (0) finding files: index.php: adding to list (1)
+0043.596 (0) finding files: plugins: skipping: this is the plugins directory
+0043.598 (0) finding files: themes: skipping: this is the themes directory
+0043.601 (0) finding files: updraft: skipping: this is the updraft directory
+0043.604 (0) finding files: upgrade: skipping: excluded by options
+0043.607 (0) finding files: uploads: skipping: this is the uploads directory
+0043.623 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0043.626 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 0 KB, split: 409600 KB)
+0043.636 (0) Creating zip file manifest (backup_2024-03-03-0502_Streamit_44b8340dc894-others.zip.list-temp.tmp)
+0043.639 (0) Successfully created zip file manifest (size: 43)
+0043.654 (0) Created others zip (0) - 0.1 KB in 0 s (4.4 KB/s) (sha1: 6c269f9057eaf930e34162f3510f86ad5b80446b, sha256: 5591539e05016106de2be133e6408aca81fa874a5f7bd98d7bb0f921feb9b1e7)
+0043.665 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0043.669 (0) No remote despatch: user chose no remote backup service
+0043.671 (0) Recording as successfully uploaded: backup_2024-03-03-0502_Streamit_44b8340dc894-others.zip
+0043.676 (0) Deleting zip manifest (backup_2024-03-03-0502_Streamit_44b8340dc894-others.zip.list.tmp)
+0043.681 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0043.684 (0) Number of backup sets in history: 0; groups (db): 1
+0043.686 (0) Number of backup sets in history: 0; groups (files): 1
+0043.688 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0043.710 (0) Saving backup status to database (elements: 8)
+0043.716 (0) Beginning creation of database dump (WordPress DB)
+0043.720 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0043.794 (0) Table stream_options: Total expected rows (via COUNT): 248
+0043.796 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0043.897 (0) Table stream_options: Rows added in this batch (next record: 346): 242 (uncompressed bytes in this segment=1387415) in 0.15 seconds
+0043.915 (0) Table stream_options: finishing file(s) (2, 298 KB)
+0043.943 (0) Table stream_users: Total expected rows (via COUNT): 1
+0043.945 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0043.953 (0) Table stream_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1197) in 0.03 seconds
+0043.968 (0) Table stream_users: finishing file(s) (2, 0.6 KB)
+0044.003 (0) Table stream_usermeta: Total expected rows (via COUNT): 29
+0044.006 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0044.012 (0) Table stream_usermeta: Rows added in this batch (next record: 29): 29 (uncompressed bytes in this segment=6871) in 0.04 seconds
+0044.028 (0) Table stream_usermeta: finishing file(s) (2, 2.2 KB)
+0044.066 (0) Table stream_commentmeta: Total expected rows (via COUNT): 0
+0044.073 (0) Table stream_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=658) in 0.04 seconds
+0044.093 (0) Table stream_commentmeta: finishing file(s) (2, 0.4 KB)
+0044.126 (0) Table stream_comments: Total expected rows (via COUNT): 0
+0044.133 (0) Table stream_comments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1490) in 0.03 seconds
+0044.148 (0) Table stream_comments: finishing file(s) (2, 0.5 KB)
+0044.180 (0) Table stream_links: Total expected rows (via COUNT): 0
+0044.187 (0) Table stream_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1051) in 0.03 seconds
+0044.201 (0) Table stream_links: finishing file(s) (2, 0.5 KB)
+0044.231 (0) Table stream_postmeta: Total expected rows (via COUNT): 59
+0044.233 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0044.239 (0) Table stream_postmeta: Rows added in this batch (next record: 74): 59 (uncompressed bytes in this segment=4956) in 0.03 seconds
+0044.254 (0) Table stream_postmeta: finishing file(s) (2, 1.6 KB)
+0044.282 (0) Table stream_posts: Total expected rows (via COUNT): 18
+0044.284 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0044.292 (0) Table stream_posts: Rows added in this batch (next record: 24): 18 (uncompressed bytes in this segment=20236) in 0.03 seconds
+0044.307 (0) Table stream_posts: finishing file(s) (2, 3.9 KB)
+0044.336 (0) Table stream_term_relationships: Total expected rows (approximate): 5
+0044.349 (0) Table stream_term_relationships: Rows added in this batch (next record: 100000): 5 (uncompressed bytes in this segment=774) in 0.03 seconds
+0044.363 (0) Table stream_term_relationships: finishing file(s) (2, 0.4 KB)
+0044.395 (0) Table stream_term_taxonomy: Total expected rows (via COUNT): 6
+0044.398 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0044.403 (0) Table stream_term_taxonomy: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=1039) in 0.03 seconds
+0044.420 (0) Table stream_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0044.460 (0) Table stream_termmeta: Total expected rows (via COUNT): 0
+0044.466 (0) Table stream_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=631) in 0.04 seconds
+0044.481 (0) Table stream_termmeta: finishing file(s) (2, 0.4 KB)
+0044.508 (0) Table stream_terms: Total expected rows (via COUNT): 6
+0044.510 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0044.517 (0) Table stream_terms: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=845) in 0.03 seconds
+0044.529 (0) Table stream_terms: finishing file(s) (2, 0.5 KB)
+0044.561 (0) Table stream_presto_player_audio_presets: Total expected rows (via COUNT): 4
+0044.563 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0044.568 (0) Table stream_presto_player_audio_presets: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=2977) in 0.03 seconds
+0044.585 (0) Table stream_presto_player_audio_presets: finishing file(s) (2, 0.8 KB)
+0044.613 (0) Table stream_presto_player_email_collection: Total expected rows (via COUNT): 0
+0044.620 (0) Table stream_presto_player_email_collection: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1316) in 0.03 seconds
+0044.638 (0) Table stream_presto_player_email_collection: finishing file(s) (2, 0.5 KB)
+0044.677 (0) Table stream_presto_player_presets: Total expected rows (via COUNT): 6
+0044.680 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0044.689 (0) Table stream_presto_player_presets: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=5513) in 0.04 seconds
+0044.711 (0) Table stream_presto_player_presets: finishing file(s) (2, 1.5 KB)
+0044.740 (0) Table stream_presto_player_videos: Total expected rows (via COUNT): 2
+0044.743 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0044.747 (0) Table stream_presto_player_videos: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1538) in 0.03 seconds
+0044.763 (0) Table stream_presto_player_videos: finishing file(s) (2, 0.7 KB)
+0044.795 (0) Table stream_presto_player_visits: Total expected rows (via COUNT): 2
+0044.799 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0044.804 (0) Table stream_presto_player_visits: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1222) in 0.03 seconds
+0044.819 (0) Table stream_presto_player_visits: finishing file(s) (2, 0.5 KB)
+0044.848 (0) Table stream_presto_player_webhooks: Total expected rows (via COUNT): 0
+0044.855 (0) Table stream_presto_player_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=944) in 0.03 seconds
+0044.872 (0) Table stream_presto_player_webhooks: finishing file(s) (2, 0.4 KB)
+0044.875 (0) PHP event: code E_WARNING: filemtime(): stat failed for D:\xampp\localhost\streamit/wp-content/updraft/backup_2024-03-03-0502_Streamit_44b8340dc894-db.gz (line 1925, D:\xampp\localhost\streamit\wp-content\plugins\updraftplus\backup.php)
+0044.881 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_options.table.tmpr347.gz (1/18/fopen): adding to final database dump
+0044.896 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_options.table.gz (2/18/fopen): adding to final database dump
+0044.900 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_users.table.tmpr2.gz (3/18/fopen): adding to final database dump
+0044.903 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_users.table.gz (4/18/fopen): adding to final database dump
+0044.906 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_usermeta.table.tmpr30.gz (5/18/fopen): adding to final database dump
+0044.910 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_usermeta.table.gz (6/18/fopen): adding to final database dump
+0044.914 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_commentmeta.table.tmpr0.gz (7/18/fopen): adding to final database dump
+0044.916 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_commentmeta.table.gz (8/18/fopen): adding to final database dump
+0044.920 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_comments.table.tmpr0.gz (9/18/fopen): adding to final database dump
+0044.923 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_comments.table.gz (10/18/fopen): adding to final database dump
+0044.927 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_links.table.tmpr0.gz (11/18/fopen): adding to final database dump
+0044.930 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_links.table.gz (12/18/fopen): adding to final database dump
+0044.933 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_postmeta.table.tmpr75.gz (13/18/fopen): adding to final database dump
+0044.936 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_postmeta.table.gz (14/18/fopen): adding to final database dump
+0044.938 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_posts.table.tmpr25.gz (15/18/fopen): adding to final database dump
+0044.942 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_posts.table.gz (16/18/fopen): adding to final database dump
+0044.946 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_term_relationships.table.tmpr100001.gz (17/18/fopen): adding to final database dump
+0044.949 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_term_relationships.table.gz (18/18/fopen): adding to final database dump
+0044.952 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_term_taxonomy.table.tmpr7.gz (19/18/fopen): adding to final database dump
+0044.956 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_term_taxonomy.table.gz (20/18/fopen): adding to final database dump
+0044.961 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_termmeta.table.tmpr0.gz (21/18/fopen): adding to final database dump
+0044.965 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_termmeta.table.gz (22/18/fopen): adding to final database dump
+0044.968 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_terms.table.tmpr7.gz (23/18/fopen): adding to final database dump
+0044.972 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_terms.table.gz (24/18/fopen): adding to final database dump
+0044.975 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_presto_player_audio_presets.table.tmpr5.gz (25/18/fopen): adding to final database dump
+0044.979 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_presto_player_audio_presets.table.gz (26/18/fopen): adding to final database dump
+0044.982 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_presto_player_email_collection.table.tmpr0.gz (27/18/fopen): adding to final database dump
+0044.985 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_presto_player_email_collection.table.gz (28/18/fopen): adding to final database dump
+0044.988 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_presto_player_presets.table.tmpr7.gz (29/18/fopen): adding to final database dump
+0044.991 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_presto_player_presets.table.gz (30/18/fopen): adding to final database dump
+0044.994 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_presto_player_videos.table.tmpr3.gz (31/18/fopen): adding to final database dump
+0044.997 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_presto_player_videos.table.gz (32/18/fopen): adding to final database dump
+0045.000 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_presto_player_visits.table.tmpr3.gz (33/18/fopen): adding to final database dump
+0045.004 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_presto_player_visits.table.gz (34/18/fopen): adding to final database dump
+0045.006 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_presto_player_webhooks.table.tmpr0.gz (35/18/fopen): adding to final database dump
+0045.011 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db-table-stream_presto_player_webhooks.table.gz (36/18/fopen): adding to final database dump
+0045.069 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db.gz: finished writing out complete database file (314 KB)
+0045.100 (0) Total database tables backed up: 18 (backup_2024-03-03-0502_Streamit_44b8340dc894-db.gz, size: 321708, sha1: c8e484ee8789cef14620880ad09652f193b7a774, sha256: b51906ba1885b1ee03754170a377732a07a0807f9ea749c7efa08aee514d6b21)
+0045.114 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-plugins.zip: plugins: This file has already been successfully uploaded
+0045.116 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-themes.zip: themes: This file has already been successfully uploaded
+0045.119 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-uploads.zip: uploads: This file has already been successfully uploaded
+0045.121 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-others.zip: others: This file has already been successfully uploaded
+0045.123 (0) backup_2024-03-03-0502_Streamit_44b8340dc894-db.gz: db: This file has not yet been successfully uploaded: will queue
+0045.125 (0) Saving backup history. Total backup size: 31.5 MB
+0045.131 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0045.138 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0045.140 (0) No remote despatch: user chose no remote backup service
+0045.143 (0) Recording as successfully uploaded: backup_2024-03-03-0502_Streamit_44b8340dc894-db.gz
+0045.150 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0045.154 (0) Number of backup sets in history: 1; groups (db): 1
+0045.156 (0) Examining (for databases) backup set with group_id=0, nonce=44b8340dc894, datestamp=1709442130 (Mar 03 2024 05:02:10)
+0045.158 (0) This backup set is the backup set just made, so will not be deleted.
+0045.158 (0) Number of backup sets in history: 1; groups (files): 1
+0045.161 (0) Examining (for files) backup set with nonce=44b8340dc894, datestamp=1709442130 (Mar 03 2024 05:02:10)
+0045.161 (0) This backup set is the backup set just made, so will not be deleted.
+0045.163 (0) This backup set is the backup set just made, so will not be deleted.
+0045.163 (0) This backup set is the backup set just made, so will not be deleted.
+0045.163 (0) This backup set is the backup set just made, so will not be deleted.
+0045.163 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0045.165 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0045.171 (0) Resume backup (44b8340dc894, 0): finish run
+0045.177 (0) Decremented the semaphore (fd) by 1
+0045.180 (0) Semaphore (fd) unlocked
+0045.185 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0045.194 (0) No email will/can be sent - the user has not configured an email address.
+0045.196 (0) The backup succeeded and is now complete
